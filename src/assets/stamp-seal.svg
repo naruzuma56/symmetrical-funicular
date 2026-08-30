@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <g fill="#E60012" stroke="#E60012">
+    <circle cx="80" cy="80" r="78" fill="none" stroke-width="7"/>
+    <circle cx="80" cy="80" r="62" fill="none" stroke-width="2.5"/>
+  </g>
+  <text x="80" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+    font-size="64" font-weight="bold" fill="#F4F4F0">武</text>
+</svg>
