@@ -53,7 +53,7 @@ export function MangaNav() {
         <button onClick={() => go('#hero')} className="flex items-center gap-2" aria-label="Back to cover" data-ink-hover>
           <img src={stampSeal} alt="" aria-hidden="true" className="h-9 w-9 -rotate-6" />
           <span className="font-comic text-xl tracking-widest text-ink" style={{ transform: 'skew(-4deg)' }}>
-            <span className="text-blood">REN</span>◤武◢
+            <span className="text-blood">Abiral</span>◤武◢
           </span>
         </button>
 
